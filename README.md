@@ -18,5 +18,5 @@ A model and utility for learning market inefficiency patterns with minimal help 
 
 Edge-learner will not start with a commercially permissive license this time. If it works out well, it will probably wind up being a dual license situation. For now,  I'm placing a non-commercial license. There just isn't enough time for  me to work on a commercial permissive licensed project right now.  Approved contributors who put forward good work will be considered for  complimentary commercial licenses and other such agreements in the  future.
 
-**Edge-learner is licensed under the Non-Profit Open Software License 3.0 (NPOSL-3.0)**
+Edge-learner is licensed under the [Non-Profit Open Software License 3.0 (NPOSL-3.0)](https://github.com/TheDoctorAI/edge-learner/blob/master/LICENSE.md)
 
