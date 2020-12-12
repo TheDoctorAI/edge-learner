@@ -14,6 +14,16 @@ A model and utility for learning market inefficiency patterns with minimal help 
 
 
 
+## Help Support The Project
+
+This project would benefit from some compute servers, software licenses, and occasional code bounties. Help ensure that there's always a free, open-source version maintained.
+
+**Donate Bitcoin:** `bc1q83q4f69u5700sqvn7l7y2cdjwpkhvlq39cdswv`
+
+**Donate Ethereum**: `0x79933F7fCd8B5045C52Ac581F857B7232cEd4Dc3`
+
+
+
 ## License
 
 Edge-learner will not start with a commercially permissive license this time. If it works out well, it will probably wind up being a dual license situation. For now,  I'm placing a non-commercial license. There just isn't enough time for  me to work on a commercial permissive licensed project right now.  Approved contributors who put forward good work will be considered for  complimentary commercial licenses and other such agreements in the  future.
