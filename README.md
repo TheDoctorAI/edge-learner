@@ -6,11 +6,13 @@ A model and utility for learning market inefficiency patterns with minimal help 
 
 ## TODO
 
--    Settle on a learning model.
--    Create an interactive charting environment to host the human interaction utility.
--    Create a charting utility capable of visually defining market inefficiencies.
--    Create or adopt a DSL for mathematically defining market inefficiencies.
--    Create a reinforcement model trading agent (Separate repo) which can utilize edge-learner.
+*  Settle on a learning model.
+*  Create an interactive charting environment to host the human interaction utility.
+    - [d3fc](https://d3fc.io/)
+    - [techan.js](https://github.com/andredumas/techan.js)
+*  Create a charting utility capable of visually defining market inefficiencies.
+*  Create or adopt a DSL for mathematically defining market inefficiencies.
+*  Create a reinforcement model trading agent (Separate repo) which can utilize edge-learner.
 
 
 

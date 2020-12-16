@@ -1,0 +1,24 @@
+{
+  "name": "edge-learner",
+  "description": "Reinforce the learning for trading agents.",
+  "main": "index.js",
+  "authors": [
+    "TheDoctorAI <49969231+TheDoctorAI@users.noreply.github.com>"
+  ],
+  "license": "NPOSL-3.0",
+  "keywords": [
+    "trading"
+  ],
+  "homepage": "https://github.com/TheDoctorAI/edge-learner",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "techan": "^0.8.0"
+  }
+}
