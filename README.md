@@ -16,7 +16,7 @@ With this in mind, let's see if we can get an unofficial API to PrimeXBT working
 *  Create an interactive charting environment to host the human interaction utility.
     - [d3fc](https://d3fc.io/)
     - [techan.js](https://github.com/andredumas/techan.js)
-    - Started here: [github.io/edge-learner](https://thedoctorai.github.io/edge-learner/)
+    - Started here: [github.io/edge-learner/ui](https://thedoctorai.github.io/edge-learner/ui)
 *  Create a charting utility capable of visually defining market inefficiencies.
 *  Create or adopt a DSL for mathematically defining market inefficiencies.
 *  Create a reinforcement model trading agent (Separate repo) which can utilize edge-learner.
