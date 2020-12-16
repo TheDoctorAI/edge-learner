@@ -2,6 +2,8 @@
 
 A model and utility for learning market inefficiency patterns with minimal help of humans. It has not yet been decided what sort of model to use yet. It's being thought about and discussed on [the related BHW thread](https://www.blackhatworld.com/seo/follow-me-as-i-create-an-ai-trading-bot-for-bitcoin-crypto.1116066/).
 
+UI started here: [github.io/edge-learner/ui](https://thedoctorai.github.io/edge-learner/ui)
+
 ## Binary Options Idea
 
 I just remembered an idea I previously had. It would be nice to be able to start small, without riches. That's
@@ -16,7 +18,6 @@ With this in mind, let's see if we can get an unofficial API to PrimeXBT working
 *  Create an interactive charting environment to host the human interaction utility.
     - [d3fc](https://d3fc.io/)
     - [techan.js](https://github.com/andredumas/techan.js)
-    - Started here: [github.io/edge-learner/ui](https://thedoctorai.github.io/edge-learner/ui)
 *  Create a charting utility capable of visually defining market inefficiencies.
 *  Create or adopt a DSL for mathematically defining market inefficiencies.
 *  Create a reinforcement model trading agent (Separate repo) which can utilize edge-learner.
