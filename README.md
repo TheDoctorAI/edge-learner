@@ -2,7 +2,13 @@
 
 A model and utility for learning market inefficiency patterns with minimal help of humans. It has not yet been decided what sort of model to use yet. It's being thought about and discussed on [the related BHW thread](https://www.blackhatworld.com/seo/follow-me-as-i-create-an-ai-trading-bot-for-bitcoin-crypto.1116066/).
 
+## Binary Options Idea
 
+I just remembered an idea I previously had. It would be nice to be able to start small, without riches. That's
+difficult because it means you have to place high leveraged trades. Binary options might be a good place to
+start instead since starting from a small portfolio is a bit more straight-forward in that situation.
+
+With this in mind, let's see if we can get an unofficial API to PrimeXBT working (There's no official one).
 
 ## TODO
 
